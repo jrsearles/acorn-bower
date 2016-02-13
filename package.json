@@ -1,0 +1,25 @@
+{
+  "name": "acorn-bower",
+  "description": "Bower endpoint for acorn ECMAScript parser",
+  "main": "dist/acorn.js",
+  "version": "2.7.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrsearles/acorn-bower.git"
+  },
+  "keywords": [
+    "acorn",
+    "bower"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ternjs/acorn/issues"
+  },
+  "homepage": "https://github.com/ternjs/acorn",
+  "dependencies": {
+    "acorn": "^2.7.0"
+  },
+  "devDependencies": {
+    "uglify-js": "^2.6.1"
+  }
+}

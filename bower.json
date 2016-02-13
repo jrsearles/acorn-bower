@@ -1,0 +1,22 @@
+{
+  "name": "acorn-bower",
+  "description": "Bower endpoint for acorn ECMAScript parser",
+  "main": "dist/acorn.js",
+  "license": "MIT",
+  "keywords": [
+    "acorn",
+    "bower"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "https://github.com/ternjs/acorn",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build.js"
+  ]
+}
